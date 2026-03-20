@@ -1,4 +1,3 @@
-
 # Auto Job Agent 
 
 ## Live Demo  
@@ -12,13 +11,23 @@ https://auto-job-agent-lake.vercel.app
 
 It allows users to:
 
--  Parse resumes using AI  
--  Fetch jobs from multiple sources  
--  Match skills with job requirements  
--  Generate AI-powered cover letters  
--  Get intelligent job-fit insights  
+- Parse resumes using AI  
+- Fetch jobs from multiple sources  
+- Match skills with job requirements  
+- Generate AI-powered cover letters  
+- Get intelligent job-fit insights  
 
 This project demonstrates a complete **AI-driven job automation pipeline**.
+
+---
+
+## Important Demo Note
+
+The backend is deployed on Render (free tier).
+
+- The first request may take 2–3 minutes to respond  
+- This is because the backend server goes to sleep when inactive  
+- Please wait and retry after a short time if the app does not respond initially  
 
 ---
 
@@ -126,9 +135,6 @@ Database
 
 ### Profile / Settings
 ![Profile Settings](screenshot/5.png)
-
-
-
 
 ---
 
