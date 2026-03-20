@@ -112,7 +112,20 @@ Database
 
 ## 📸 Screenshots
 
-screenshot/1.png
+### 1️⃣ Resume Upload
+![Resume Upload](screenshot/1.png)
+
+### 2️⃣ Job Listings
+![Job Listings](screenshot/2.png)
+
+### 3️⃣ Job Matching
+![Job Matching](screenshot/3.png)
+
+### 4️⃣ AI Insights
+![AI Insights](screenshot/4.png)
+
+### 5️⃣ Cover Letter Generator
+![Cover Letter](screenshot/5.png)
 
 
 
