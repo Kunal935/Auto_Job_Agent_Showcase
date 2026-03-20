@@ -110,21 +110,21 @@ Database
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-### 🧭 Dashboard
+### Dashboard
 ![Dashboard](screenshot/1.png)
 
-### 📄 Resume Parsing
+### Resume Parsing
 ![Resume Parsing](screenshot/2.png)
 
-### 🎯 Job Matches
+### Job Matches
 ![Job Matches](screenshot/3.png)
 
-### ✉️ Cover Letter Generator
+### Cover Letter Generator
 ![Cover Letter Generator](screenshot/4.png)
 
-### ⚙️ Profile / Settings
+### Profile / Settings
 ![Profile Settings](screenshot/5.png)
 
 
