@@ -179,5 +179,3 @@ Security measures:
 
 Feel free to connect for collaboration or opportunities.
 ```
-
-
